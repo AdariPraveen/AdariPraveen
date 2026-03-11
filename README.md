@@ -5,3 +5,4 @@
 - 📫 How to reach me my linkedin profile Praveen Adari
 - 😄 Pronouns: Praveen Adari
 - ⚡ Fun fact: Projects are refection of presenting the how much we're interseted or knowledge in the languages
+- These projects are made in the same coding logic onl
